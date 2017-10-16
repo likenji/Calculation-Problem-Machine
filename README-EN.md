@@ -1,5 +1,5 @@
 0.This programme was written for my cousin, who was asked to do several calculation problems as homework every day in summer holiday.
-It is suited for people who want to train his or her calculation ability of fractions.
+It is suited for people who want to be skilled at calculating fractions.
 
 Features
 1.Only problems with a non-negative result will be printed.
