@@ -1,5 +1,5 @@
 0.This programme was written for my cousin, who was asked to do several calculation problems as homework every day in summer holiday.
-It is suitable for people who want to train his/her calculation skills
+It is suitable for people who want to train his/her calculation skills.
 
 Features
 1.Only problems with a non-negative result will be printed.
