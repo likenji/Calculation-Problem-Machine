@@ -2,6 +2,6 @@
 It is suitable for people who want to train his/her calculation skills.
 
 Features
-1.Only problems with a non-negative result will be printed.
-2.Easy to generate one more group of problems.
-3.You can check the answer and the time consumed in the latest version!
+	1.Only problems with non-negative results will be printed.
+	2.Easy to generate one more group of problems(15 per group).
+	3.Check the answer and consumed time in the latest version!
